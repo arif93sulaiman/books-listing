@@ -1,4 +1,4 @@
-import React, { useContext } from "React";
+import React, { useContext } from "react";
 import { BookContext } from "../contexts/BookContext";
 
 function Navbar() {
